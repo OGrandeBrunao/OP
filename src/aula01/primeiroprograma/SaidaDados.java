@@ -1,4 +1,4 @@
-package aula01;
+package aula01.primeiroprograma;
 
 public class SaidaDados {
 
@@ -10,6 +10,6 @@ public class SaidaDados {
 		
 		System.out.println(nome + " possui " + idade + " anos e " + peso + "kg.");
 		System.out.printf("%s possui %d anos e %f kg.\n", nome, idade, peso);
-		System.out.println("Disciplina: Orientação a Objetos 1");
+		System.out.println("Disciplina: Programação Orientada a Objetos");
 	}
 }
